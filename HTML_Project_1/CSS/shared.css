@@ -191,7 +191,7 @@ section {
     background-color: #f5f3f3;
 }
 
-.reservations {
+.reservation {
     width: 60%;
     padding: 10px;
     border-radius: 8px;
@@ -244,7 +244,7 @@ section {
     font-family: 'Raleway', sans-serif;
 }
 
-.reservation inpit[type="text"] {
+.reservation input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
