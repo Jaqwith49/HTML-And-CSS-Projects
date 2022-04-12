@@ -1,0 +1,23 @@
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    font-size: 0.9em;
+}
+
+h3{
+    font-family: "Raleway", sans-serif;
+    font-size: 1em;
+}
+
+.information input[type="text"] {
+    width: 50%;
+    margin: 15px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-radius: 8px;
+}
